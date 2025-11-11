@@ -1,0 +1,5 @@
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+apache-airflow==2.9.0
+psycopg2-binary==2.9.9
+--constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.9.0/constraints-3.11.txt"
